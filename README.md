@@ -375,7 +375,7 @@ saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini 
 
 dan ini hasil program tersebut:
 
-![image](https://github.com/user-attachments/assets/fcebc05e-5e21-4d17-8be9-f4511bb36699)
+![image](https://github.com/user-attachments/assets/6dfc5375-1a54-4397-9bb6-debf23bbaf0e)
 
 
 Eksekusi program tersebut:
